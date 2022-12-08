@@ -14,5 +14,10 @@ public class Calculadora {
     public static void main(String[] args) {
         Escribir();
         EscribirLinea();
+
+        // como esaas
+
+
+        LeerNumero(2);
     }
 }
