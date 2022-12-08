@@ -12,6 +12,6 @@ public class Calculadora {
         return  Entero;
     };
     public static void main(String[] args) {
-
+        Escribir();
     }
 }
