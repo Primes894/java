@@ -19,5 +19,7 @@ public class Calculadora {
 
 
         LeerNumero(2);
+
+        LeerNumero(3);
     }
 }
